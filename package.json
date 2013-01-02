@@ -9,20 +9,21 @@
     "markup",
     "markdown"
   ],
-  "author": "Bevry Pty Ltd <us@bevry.me> (http://bevry.me)",
+  "author": "Garrett Serack <garrett@serack.org> (http://fearthecowboy)",
   "maintainers": [
-    "Benjamin Lupton <b@lupton.cc> (http://balupton.com)"
+    "Garrett Serack <garrett@serack.org> (http://fearthecowboy)"
   ],
   "contributors": [
+    "Garrett Serack <garrett@serack.org> (http://fearthecowboy)",
     "Benjamin Lupton <b@lupton.cc> (http://balupton.com)",
     "Chase Colman <chase@infinityatlas.com> (https://github.com/chase)"
   ],
   "bugs": {
-    "url": "https://github.com/docpad/docpad-plugin-marked/issues"
+    "url": "https://github.com/perpetual-motion/docpad-plugin-marked/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/docpad/docpad-plugin-marked.git"
+    "url": "https://github.com/perpetual-motion/docpad-plugin-marked.git"
   },
   "engines": {
     "node": ">=0.4.0",
