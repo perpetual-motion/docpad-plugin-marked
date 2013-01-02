@@ -33,6 +33,7 @@
     "test": "node ./lib/marked.test.js"
   },
   "dependencies": {
-    "marked": "git://github.com/perpetual-motion/marked.git"
+    "marked": "git://github.com/perpetual-motion/marked.git",
+    "docpad-jsplugin": "git://github.com/perpetual-motion/docpad-jsplugin.git"
   }
 }
