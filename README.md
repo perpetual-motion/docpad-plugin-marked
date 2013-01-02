@@ -1,13 +1,15 @@
 # Marked Plugin for DocPad
-[Markdown](http://daringfireball.net/projects/markdown/) rendering for [DocPad](https://docpad.org), using [Marked](https://github.com/chjj/marked)
+An enhanced [Markdown](http://daringfireball.net/projects/markdown/) rendering for [DocPad](https://docpad.org), using [Marked](https://github.com/chjj/marked)
 
 Convention:  `.html.md|markdown`
 
 
 ## Install
 
+
+
 ```
-npm install --save docpad-plugin-marked
+TBA 
 ```
 
 
@@ -29,5 +31,6 @@ You can discover the history inside the `History.md` file
 
 ## License
 Licensed under the incredibly [permissive](http://en.wikipedia.org/wiki/Permissive_free_software_licence) [MIT License](http://creativecommons.org/licenses/MIT/)
+<br/>Copyright &copy; 2013 [Garrett Serack](http://fearthecowboy.com)
 <br/>Copyright &copy; 2012 [Bevry Pty Ltd](http://bevry.me)
 <br/>Copyright &copy; 2011 [Benjamin Lupton](http://balupton.com)
